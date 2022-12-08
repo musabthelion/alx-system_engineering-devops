@@ -1,0 +1,5 @@
+#!/bin/bash
+export $BREAT=4
+export  $LOVE=3
+
+echo $(($BREATH ** LOVE))
