@@ -1,0 +1,2 @@
+#!/bin/bash
+tail --lines=11111111111 $iacta >> $iacta
